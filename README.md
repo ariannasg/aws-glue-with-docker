@@ -11,9 +11,6 @@ Implementation of https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-
 
 Notes: It's really slow to run this in PyCharm - screen freezes often.
 
-## Objectives
-Description of project objectives.
-
 ## Local setup
 Follow the instructions in the link above.
 
