@@ -1,6 +1,6 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
-# Project Title
+# Developing AWS Glue ETL jobs locally using a container
 
 * [Description](#description)
 * [Local setup](#local-setup)
